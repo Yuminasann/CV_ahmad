@@ -1,0 +1,12 @@
+.fotoku{
+    border-radius: 100%;
+    width: 30%;
+    margin: auto;
+    padding: 5px;
+}
+
+.fotoku:hover{
+    background-color: black;
+    box-shadow: 0px 0px 10px grey;
+
+}
